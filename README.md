@@ -20,6 +20,7 @@ Hello! 👋 I'm Yen, a passionate software developer with a knack for turning id
 - codex
 - Makerkit, shadcn-ui
 - localstack
+- RAG
 
 
 ## 📫 How to reach me
