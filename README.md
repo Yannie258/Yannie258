@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-Hello! 👋 I'm Yen, a passionate software developer with a knack for turning ideas into reality through code. My expertise lies in Web development, AI and computer science, and I enjoy exploring new technologies through self-study and doing my own projects.
+Hello! 👋 I'm Yen, a passionate software developer with a knack for turning ideas into reality through code. My expertise lies in Web development, computer science and now in AI technologies. I enjoy exploring new technologies through self-study and doing my own projects.
+
 ## 🔧 Technologies & Tools
 - **n8n**
 - **Docker**
@@ -22,12 +23,15 @@ Hello! 👋 I'm Yen, a passionate software developer with a knack for turning id
 - localstack
 - RAG
 
-
 ## 📫 How to reach me
 - **yen.nguyen.ziesche@gmail.com** 
 - **https://www.linkedin.com/in/yennguyentn/**
 
 ## 💡 Projects
+- **AI-Chatbot Interface: **
+will be uploaded soon...
+This is the topic of my master's degree at TU Chemnitz. This project created a comparison of different outputs of an AI-chatbot using LLMs (Large Language Models) and its impactation to user experiences.
+
 - **Webmap-MERN:** **https://github.com/Yannie258/web-map-MERN**
 An interactive map application for the city of Chemnitz has been developed to provide families with a reference tool for choosing a school or care and education facility for their children and to facilitate their relocation. Using the amount of data collected and made available to the public through the Chemnitz Open Data Portal, this application is expected to help users make appropriate and accurate decisions.
 
