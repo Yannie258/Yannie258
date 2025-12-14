@@ -1,20 +1,26 @@
 ## Hi there 👋
 
-Hello! 👋 I'm Yen, a passionate software developer with a knack for turning ideas into reality through code. My expertise lies in Web development and computer science, and I enjoy exploring new technologies through self-study and doing my own projects.
+Hello! 👋 I'm Yen, a passionate software developer with a knack for turning ideas into reality through code. My expertise lies in Web development, AI and computer science, and I enjoy exploring new technologies through self-study and doing my own projects.
 ## 🔧 Technologies & Tools
+- **n8n**
+- **Docker**
+- **Backend, API, Postgres**
 - **JavaScript, TypeScript, Java, C#**
 - **React, Vue, Aurelia**
 - **Frontend Development**
 - **TailwindCss, Bootstrap**
 - **Vuex, Redux, Vite, Pinia**
 - **RESTful API**
-- **Git** 
+- **Git**
+- **MERN Stack**
+- **GraphQL**
+- **Selenium**
 
 ## 🌱 Currently Learning
-- n8n
-- MERN Stack
-- GraphQL
-- Selenium
+- codex
+- Makerkit, shadcn-ui
+- localstack
+
 
 ## 📫 How to reach me
 - **yen.nguyen.ziesche@gmail.com** 
