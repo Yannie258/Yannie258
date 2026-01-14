@@ -29,7 +29,7 @@ Hello! 👋 I'm Yen, a passionate software developer with a knack for turning id
 
 ## 💡 Projects
 - **AI-Chatbot Interface: **
-https://github.com/Yannie258/chatbot-MA-final
+**https://github.com/Yannie258/chatbot-MA-fullversion**
 This is the topic of my master's degree at TU Chemnitz. This project created a comparison of different outputs of an AI-chatbot using LLMs (Large Language Models) and its impact on user experiences.
 
 - **Webmap-MERN:** **https://github.com/Yannie258/web-map-MERN**
