@@ -29,8 +29,8 @@ Hello! 👋 I'm Yen, a passionate software developer with a knack for turning id
 
 ## 💡 Projects
 - **AI-Chatbot Interface: **
-will be uploaded soon...
-This is the topic of my master's degree at TU Chemnitz. This project created a comparison of different outputs of an AI-chatbot using LLMs (Large Language Models) and its impactation to user experiences.
+https://github.com/Yannie258/chatbot-MA-final
+This is the topic of my master's degree at TU Chemnitz. This project created a comparison of different outputs of an AI-chatbot using LLMs (Large Language Models) and its impact on user experiences.
 
 - **Webmap-MERN:** **https://github.com/Yannie258/web-map-MERN**
 An interactive map application for the city of Chemnitz has been developed to provide families with a reference tool for choosing a school or care and education facility for their children and to facilitate their relocation. Using the amount of data collected and made available to the public through the Chemnitz Open Data Portal, this application is expected to help users make appropriate and accurate decisions.
